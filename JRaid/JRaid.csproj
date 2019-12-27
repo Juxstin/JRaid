@@ -33,9 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Anarchy, Version=0.6.3.1, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Anarchy, Version=0.6.4.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\Downloads\Anarchy-master\Anarchy-master\Anarchy\bin\Debug\Anarchy.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\Anarchy-dev\Anarchy-dev\Anarchy\bin\Debug\Anarchy.dll</HintPath>
     </Reference>
     <Reference Include="AxInterop.WMPLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\WMPLib.1.0.0\lib\AxInterop.WMPLib.dll</HintPath>
