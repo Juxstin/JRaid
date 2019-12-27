@@ -32,7 +32,7 @@ namespace JRaid
         }
         static void Main(string[] args)
         {
-            Console.Title = "JRaid | Version - ALPHA 0.1";
+            Console.Title = "JRaid | Version - ALPHA 0.2";
             WMPLib.WindowsMediaPlayer wplayer = new WMPLib.WindowsMediaPlayer();
             wplayer.URL = AppDomain.CurrentDomain.BaseDirectory + "\\lund.mp3";
             wplayer.controls.play();
