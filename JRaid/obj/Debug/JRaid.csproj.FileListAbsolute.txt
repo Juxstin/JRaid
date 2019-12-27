@@ -1,0 +1,17 @@
+C:\Users\Ryzen\source\repos\JRaid\JRaid\bin\Debug\JRaid.exe.config
+C:\Users\Ryzen\source\repos\JRaid\JRaid\bin\Debug\JRaid.exe
+C:\Users\Ryzen\source\repos\JRaid\JRaid\bin\Debug\JRaid.pdb
+C:\Users\Ryzen\source\repos\JRaid\JRaid\bin\Debug\Anarchy.dll
+C:\Users\Ryzen\source\repos\JRaid\JRaid\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ryzen\source\repos\JRaid\JRaid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ryzen\source\repos\JRaid\JRaid\bin\Debug\Newtonsoft.Json.Schema.dll
+C:\Users\Ryzen\source\repos\JRaid\JRaid\bin\Debug\Leaf.xNet.dll
+C:\Users\Ryzen\source\repos\JRaid\JRaid\bin\Debug\websocket-sharp-with-proxy-support.dll
+C:\Users\Ryzen\source\repos\JRaid\JRaid\bin\Debug\Anarchy.pdb
+C:\Users\Ryzen\source\repos\JRaid\JRaid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ryzen\source\repos\JRaid\JRaid\bin\Debug\Newtonsoft.Json.Schema.xml
+C:\Users\Ryzen\source\repos\JRaid\JRaid\bin\Debug\Leaf.xNet.xml
+C:\Users\Ryzen\source\repos\JRaid\JRaid\obj\Debug\JRaid.csprojAssemblyReference.cache
+C:\Users\Ryzen\source\repos\JRaid\JRaid\obj\Debug\JRaid.csproj.CopyComplete
+C:\Users\Ryzen\source\repos\JRaid\JRaid\obj\Debug\JRaid.exe
+C:\Users\Ryzen\source\repos\JRaid\JRaid\obj\Debug\JRaid.pdb
