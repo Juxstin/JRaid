@@ -32,7 +32,7 @@ namespace JRaid
         }
         static void Main(string[] args)
         {
-            Console.Title = "JRaid | Version - ALPHA 0.2";
+            Console.Title = "JRaid | Version - ALPHA 0.2.2";
             WMPLib.WindowsMediaPlayer wplayer = new WMPLib.WindowsMediaPlayer();
             wplayer.URL = AppDomain.CurrentDomain.BaseDirectory + "\\lund.mp3";
             wplayer.controls.play();
@@ -303,7 +303,7 @@ namespace JRaid
                     Print("joingroup [invitecode] [delayinms]");
                     Print("leave [guildid] [delayinms]");
                     Print("leavegroup [groupid] [delayinms]");
-                    Print("[username] [tag without #] [delayinms]");
+                    Print("friend [username] [tag without #] [delayinms]");
                     Print("createinvite [channelid] [delayinms]");
                     Print("say [channelid] [delayinms] [y/n trigger typing] [message no spaces]");
                     Print("saydm [userid] [delayinms] [y/n trigger typing] [message no spaces]");
