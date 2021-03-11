@@ -13,9 +13,9 @@
 + saygroup [groupid] [delayinms] [y/n trigger typing] [message no spaces]
 
 [CREDITS]
-+ ORGINAL AUTHOR LIBARY -> https://github.com/iLinked1337
-+ MODIFIED LIBARY -> https://github.com/Juxstin
-+ CONSOLE APP -> https://github.com/Juxstin
++ ORGINAL AUTHOR LIBARY -> https://github.com/not-ilinked/
++ MODIFIED LIBARY -> https://github.com/JReverse
++ CONSOLE APP -> https://github.com/JReverse
 
 
 [Biggest Changes]
@@ -25,4 +25,4 @@
 + Delays
 
 [GUI VERSION]
-+ https://github.com/Juxstin/JRaidGui
++ https://github.com/JReverse/JRaidGui
